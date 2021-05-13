@@ -1,5 +1,5 @@
 # Dissertation
-LaTeX and Gnuplot sources of my dissertation
+LaTeX and Gnuplot sources of my dissertation, published 2013
 
 Molecular Doping of Organic Semiconductors - A Conductivity and Seebeck Study
 
